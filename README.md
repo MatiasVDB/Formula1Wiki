@@ -11,4 +11,4 @@ Lenguajes utilizados:
 
 Frameworks utilizados:
 
-- Materialize, el cuál se utilizó para todo el diseño del sitio (adatpado tambíen a mobile). 
+- Materialize, el cuál se utilizó para todo el diseño del sitio (adatpado también a mobile). 
